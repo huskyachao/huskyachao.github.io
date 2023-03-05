@@ -276,7 +276,7 @@
 
   
 
-<meta name="description" content="In this paper, we proposed a remote(&gt;2m) and motion-resilient attack on smartphone earpiece. We developed an end-to-end eavesdropping system mmEve based on a commercial mmWave sensor to recover speech emitted from smartphone earpiece." />
+<meta name="description" content="This paper presents mmPhone, a novel sound recovery system that can recover high-quality speech protected by soundproof environments via mmWave sensing." />
 
 
 
@@ -319,16 +319,16 @@
 <meta property="og:site_name" content="Chao Wang" />
 <meta property="og:url" content="https://huskyachao.github.io/publication/mmphone-infocom22/" />
 <meta property="og:title" content="mmPhone-INFOCOM 2022 | Chao Wang" />
-<meta property="og:description" content="In this paper, we proposed a remote(&gt;2m) and motion-resilient attack on smartphone earpiece. We developed an end-to-end eavesdropping system mmEve based on a commercial mmWave sensor to recover speech emitted from smartphone earpiece." /><meta property="og:image" content="https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="This paper presents mmPhone, a novel sound recovery system that can recover high-quality speech protected by soundproof environments via mmWave sensing." /><meta property="og:image" content="https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2022-10-14T00:00:00&#43;00:00"
+      content="2022-06-20T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2022-10-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-05-02T00:00:00&#43;00:00">
   
 
 
@@ -356,8 +356,8 @@
   },
   "headline": "mmPhone-INFOCOM 2022",
   
-  "datePublished": "2022-10-14T00:00:00Z",
-  "dateModified": "2022-10-14T00:00:00Z",
+  "datePublished": "2022-06-20T00:00:00Z",
+  "dateModified": "2022-05-02T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -372,7 +372,7 @@
       "url": "https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "In this paper, we proposed a remote(\u003e2m) and motion-resilient attack on smartphone earpiece. We developed an end-to-end eavesdropping system mmEve based on a commercial mmWave sensor to recover speech emitted from smartphone earpiece."
+  "description": "This paper presents mmPhone, a novel sound recovery system that can recover high-quality speech protected by soundproof environments via mmWave sensing."
 }
 </script>
 
@@ -851,10 +851,10 @@
       Chao Wang</span>, <span >
       Feng Lin</span>, <span >
       Tiantian Liu</span>, <span >
-      Kaidi Zheng</span>, <span >
-      Zhibo Wang</span>, <span >
-      Zhengxiong Li</span>, <span >
-      Ming-Chun Huang</span>, <span >
+      Ziwei Liu</span>, <span >
+      Yijie Shen</span>, <span >
+      Zhongjie Ba</span>, <span >
+      Li Lu</span>, <span >
       Wenyao Xu</span>, <span >
       Kui Ren</span>
   </div>
@@ -867,7 +867,7 @@
     
       
     
-    October, 2022
+    May, 2022
   </span>
   
 
@@ -920,20 +920,18 @@
 
 
 
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/project/example/">
-    Project
-  </a>
-  
 
 
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/slides/example/" target="_blank">
-    Slides
-  </a>
   
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/slides/mmPhone-presentation.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
 
 
   
@@ -960,7 +958,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Earpiece mode of smartphones is often used for confidential communication. In this paper, we proposed a remote(&gt;2m) and motion-resilient attack on smartphone earpiece. We developed an end-to-end eavesdropping system mmEve based on a commercial mmWave sensor to recover speech emitted from smartphone earpiece. The rationale of the attack is based on our observation that, soundwaves emitted from the smartphone&rsquo;s earpiece have a strong correlation with reflected mmWaves from the smartphone&rsquo;s rear. However, we find the recovered speech suffers from the sensor&rsquo;s self-noise and smartphone user&rsquo;s motion which limit attack distance to less than 2m, causing limited threats in real world. We modeled the motion interference under mmWave sensing and proposed a motion-resilient solution by optimizing the fitting function on I/Q plane. To achieve a practical attack with reasonable attack distance, we developed a GAN-based denoising scheme to eliminate the noise pattern of the sensor, which boosted the attack range to 6&ndash;8m. We evaluated mmEve with extensive experiments and find 23 different models of smartphones manufactured by Samsung, Huawei, etc. can be compromised by the proposed attack.</p>
+    <p class="pub-abstract">More and more people turn to online voice communication with loudspeaker-equipped devices due to its convenience. To prevent speech leakage, soundproof rooms are often adopted. This paper presents mmPhone, a novel acoustic eavesdropping system that recovers loudspeaker speech protected by soundproof environments. The key idea is that properties of piezoelectric films in mmWave band can change with sound pressure due to the piezoelectric effect. If the property changes are acquired by an adversary (i.e., characterizing the piezoelectric effect with mmWaves), speech leakage can happen. More importantly, the piezoelectric film can work without a power supply. Base on this, we proposed a methodology using mmWaves to sense the film and decoding the speech from mmWaves, which turns the film into a passive &ldquo;microphone&rdquo;. To recover intelligible speech, we further develop an enhancement scheme based on a denoising neural network, multi-channel augmentation, and speech synthesis, to compensate for the propagation and penetration loss of mmWaves. We perform extensive experiments to evaluate mmPhone and conduct digit recognition with over 93% accuracy. The results indicate mmPhone can recover high-quality and intelligible speech from a distance over 5m and is resilient to incident angles of sound waves (within 55 degrees) and different types of loudspeakers.</p>
     
 
     
@@ -988,7 +986,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Proceedings of the 28th Annual International Conference on Mobile Computing And Networking</em></div>
+          <div class="col-12 col-md-9">In <em>IEEE Conference on Computer Communications</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
