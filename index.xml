@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chao Wang</title>
+    <title>Chao&#39;s Homepage | Chao Wang</title>
     <link>https://huskyachao.github.io/</link>
       <atom:link href="https://huskyachao.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chao Wang</description>
+    <description>Chao&#39;s Homepage</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Chao Wang</title>
+      <title>Chao&#39;s Homepage</title>
       <link>https://huskyachao.github.io/</link>
     </image>
     
@@ -33,135 +33,234 @@
     </item>
     
     <item>
-      <title>MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection</title>
+      <title>(IEEE S&amp;P&#39;23)MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection</title>
       <link>https://huskyachao.github.io/publication/magbackdoor-oakland23/</link>
       <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/magbackdoor-oakland23/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>MotoPrint-TDSC 2023</title>
+      <title>(TDSC&#39;23) MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning</title>
       <link>https://huskyachao.github.io/publication/motoprint-tdsc23/</link>
       <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/motoprint-tdsc23/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>CamRadar: Hidden Camera Detection Leveraging Amplitude-modulated Sensor Images Embedded in Electromagnetic Emanations</title>
+      <title>(UbiComp&#39;23) CamRadar: Hidden Camera Detection Leveraging Amplitude-modulated Sensor Images Embedded in Electromagnetic Emanations</title>
       <link>https://huskyachao.github.io/publication/camradar-ubicomp23/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/camradar-ubicomp23/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>mmEve-MobiCom 2022</title>
+      <title>(MobiCom&#39;22) mmEve: Eavesdropping on Smartphone&#39;s Earpiece via COTS mmWave Device</title>
       <link>https://huskyachao.github.io/publication/mmeve-mobicom22/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/mmeve-mobicom22/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>Wavesdropper-UbiComp 2022</title>
+      <title>(UbiComp&#39;22) Wavesdropper: Through-wall Word Detection of Human Speech via Commercial mmWave Devices</title>
       <link>https://huskyachao.github.io/publication/wavesdropper-ubicomp22/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/wavesdropper-ubicomp22/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>mmPhone-INFOCOM 2022</title>
+      <title>Student Grant of IEEE INFOCOM 2022</title>
+      <link>https://huskyachao.github.io/certificate/student-grant-infocom-2022/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/student-grant-infocom-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(INFOCOM&#39;22) mmPhone: Acoustic Eavesdropping on Loudspeakers via mmwave-characterized Piezoelectric Effect</title>
       <link>https://huskyachao.github.io/publication/mmphone-infocom22/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/mmphone-infocom22/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>Wavoice: A noise-resistant multi-modal speech recognition system fusing mmwave and audio signals</title>
+      <title>Outstanding Graduate Student of the Year</title>
+      <link>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(SenSys&#39;21) Wavoice: A noise-resistant multi-modal speech recognition system fusing mmwave and audio signals</title>
       <link>https://huskyachao.github.io/publication/wavoice-sensys21/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/wavoice-sensys21/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(IoTJ&#39;21) G2F: A secure user authentication for rapid smart home IoT management</title>
+      <link>https://huskyachao.github.io/publication/g2f-iotj21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/publication/g2f-iotj21/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -243,6 +342,54 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>First-Prize Winner of National Network Technology Challenge in Computer Competition</title>
+      <link>https://huskyachao.github.io/certificate/firstprize-network-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/firstprize-network-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huawei Integrated Circuit Innovation Competition</title>
+      <link>https://huskyachao.github.io/certificate/secondprize-huawei-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/secondprize-huawei-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second-Prize Winner of National Integrated Circuit Innovation Competition</title>
+      <link>https://huskyachao.github.io/certificate/secondprize-ic-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/secondprize-ic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First-Prize Winner of National Integrated Circuit Innovation Competition</title>
+      <link>https://huskyachao.github.io/certificate/firstprize-ic-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/firstprize-ic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huawei Integrated Circuit Innovation Competition</title>
+      <link>https://huskyachao.github.io/certificate/secondprize-huawei-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/secondprize-huawei-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)</title>
+      <link>https://huskyachao.github.io/certificate/secondprize-ic-2018/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/secondprize-ic-2018/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -349,7 +496,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-412685379&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-261497583&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -359,7 +506,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-412685379&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-261497583&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -640,17 +787,11 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://huskyachao.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Second-Prize Winner of The 24th Undergraduate Electronics Design Contest</title>
+      <link>https://huskyachao.github.io/certificate/secondprize-elecdesign-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/secondprize-elecdesign-2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -856,44 +997,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://huskyachao.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://huskyachao.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected | Chao Wang</title>
+    <link>https://huskyachao.github.io/tag/selected/</link>
+      <atom:link href="https://huskyachao.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selected</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Selected</title>
+      <link>https://huskyachao.github.io/tag/selected/</link>
+    </image>
+    
+    <item>
+      <title>Student Grant of IEEE INFOCOM 2022</title>
+      <link>https://huskyachao.github.io/certificate/student-grant-infocom-2022/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/student-grant-infocom-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outstanding Graduate Student of the Year</title>
+      <link>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First-Prize Winner of National Network Technology Challenge in Computer Competition</title>
+      <link>https://huskyachao.github.io/certificate/firstprize-network-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/firstprize-network-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second-Prize Winner of National Integrated Circuit Innovation Competition</title>
+      <link>https://huskyachao.github.io/certificate/secondprize-ic-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/secondprize-ic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First-Prize Winner of National Integrated Circuit Innovation Competition</title>
+      <link>https://huskyachao.github.io/certificate/firstprize-ic-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/firstprize-ic-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

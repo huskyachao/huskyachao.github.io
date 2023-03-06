@@ -13,78 +13,110 @@
     </image>
     
     <item>
-      <title>MotoPrint-TDSC 2023</title>
+      <title>(TDSC&#39;23) MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning</title>
       <link>https://huskyachao.github.io/publication/motoprint-tdsc23/</link>
       <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/motoprint-tdsc23/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>CamRadar: Hidden Camera Detection Leveraging Amplitude-modulated Sensor Images Embedded in Electromagnetic Emanations</title>
+      <title>(UbiComp&#39;23) CamRadar: Hidden Camera Detection Leveraging Amplitude-modulated Sensor Images Embedded in Electromagnetic Emanations</title>
       <link>https://huskyachao.github.io/publication/camradar-ubicomp23/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/camradar-ubicomp23/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>Wavesdropper-UbiComp 2022</title>
+      <title>(UbiComp&#39;22) Wavesdropper: Through-wall Word Detection of Human Speech via Commercial mmWave Devices</title>
       <link>https://huskyachao.github.io/publication/wavesdropper-ubicomp22/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/publication/wavesdropper-ubicomp22/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://huskyachao.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>(IoTJ&#39;21) G2F: A secure user authentication for rapid smart home IoT management</title>
+      <link>https://huskyachao.github.io/publication/g2f-iotj21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/publication/g2f-iotj21/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
