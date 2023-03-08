@@ -377,7 +377,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The First Prize Winner of National Network Technology Challenge in Computer Competition</title>
+      <title>First Prize Winner of National Network Technology Challenge in Computer Competition</title>
       <link>https://huskyachao.github.io/certificate/firstprize-network-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/firstprize-network-2020/</guid>
@@ -385,7 +385,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The Second Prize of Huawei Integrated Circuit Innovation Competition</title>
+      <title>Second Prize of Huawei Integrated Circuit Innovation Competition</title>
       <link>https://huskyachao.github.io/certificate/secondprize-huawei-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/secondprize-huawei-2020/</guid>
@@ -393,7 +393,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The Second Prize Winner of National Integrated Circuit Innovation Competition</title>
+      <title>Second Prize Winner of National Integrated Circuit Innovation Competition</title>
       <link>https://huskyachao.github.io/certificate/secondprize-ic-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/secondprize-ic-2020/</guid>
@@ -401,7 +401,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The First Prize Winner of National Integrated Circuit Innovation Competition</title>
+      <title>First Prize Winner of National Integrated Circuit Innovation Competition</title>
       <link>https://huskyachao.github.io/certificate/firstprize-ic-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/firstprize-ic-2019/</guid>
@@ -409,7 +409,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The Second Prize of Huawei Integrated Circuit Innovation Competition</title>
+      <title>Second Prize of Huawei Integrated Circuit Innovation Competition</title>
       <link>https://huskyachao.github.io/certificate/secondprize-huawei-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/secondprize-huawei-2019/</guid>
@@ -417,7 +417,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)</title>
+      <title>Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)</title>
       <link>https://huskyachao.github.io/certificate/secondprize-ic-2018/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/secondprize-ic-2018/</guid>
@@ -528,7 +528,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-924163578&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-469381752&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -538,7 +538,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-924163578&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-469381752&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -819,7 +819,7 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>The Second Prize Winner of The 24th Undergraduate Electronics Design Contest</title>
+      <title>Second Prize Winner of The 24th Undergraduate Electronics Design Contest</title>
       <link>https://huskyachao.github.io/certificate/secondprize-elecdesign-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/secondprize-elecdesign-2019/</guid>
