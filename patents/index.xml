@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patents | Chao Wang</title>
+    <link>https://huskyachao.github.io/patents/</link>
+      <atom:link href="https://huskyachao.github.io/patents/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patents</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Patents</title>
+      <link>https://huskyachao.github.io/patents/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal speech recognition method and system, and computer-readable storage medium</title>
+      <link>https://huskyachao.github.io/patents/patent4/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and device for acquiring sounding motion characteristic waveforms of multiple sounders, and electronic equipment</title>
+      <link>https://huskyachao.github.io/patents/patent1/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic information acquisition method and device, electronic equipment and storage medium</title>
+      <link>https://huskyachao.github.io/patents/patent2/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centralized authentication system of Internet of Things equipment based on U2F physicaltoken</title>
+      <link>https://huskyachao.github.io/patents/patent3/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

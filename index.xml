@@ -87,6 +87,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Multimodal speech recognition method and system, and computer-readable storage medium</title>
+      <link>https://huskyachao.github.io/patents/patent4/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(UbiComp&#39;23) CamRadar: Hidden Camera Detection Leveraging Amplitude-modulated Sensor Images Embedded in Electromagnetic Emanations</title>
       <link>https://huskyachao.github.io/publication/camradar-ubicomp23/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
@@ -114,6 +122,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Method and device for acquiring sounding motion characteristic waveforms of multiple sounders, and electronic equipment</title>
+      <link>https://huskyachao.github.io/patents/patent1/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(MobiCom&#39;22) mmEve: Eavesdropping on Smartphone&#39;s Earpiece via COTS mmWave Device</title>
       <link>https://huskyachao.github.io/publication/mmeve-mobicom22/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
@@ -138,6 +154,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Semantic information acquisition method and device, electronic equipment and storage medium</title>
+      <link>https://huskyachao.github.io/patents/patent2/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -235,6 +259,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Centralized authentication system of Internet of Things equipment based on U2F physicaltoken</title>
+      <link>https://huskyachao.github.io/patents/patent3/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/patents/patent3/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -496,7 +528,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-372184659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-924163578&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -506,7 +538,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-372184659&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-924163578&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
