@@ -130,6 +130,22 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Outstanding Graduate Student of the Year</title>
+      <link>https://huskyachao.github.io/certificate/outstandinggraduate-2021-2022/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/outstandinggraduate-2021-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huawei Elite Scholarship</title>
+      <link>https://huskyachao.github.io/certificate/huaweischolarship_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/huaweischolarship_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(MobiCom&#39;22) mmEve: Eavesdropping on Smartphone&#39;s Earpiece via COTS mmWave Device</title>
       <link>https://huskyachao.github.io/publication/mmeve-mobicom22/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
@@ -229,7 +245,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>Outstanding Graduate Student of the Year</title>
       <link>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</guid>
       <description></description>
     </item>
@@ -528,7 +544,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-792641358&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-274683951&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -538,7 +554,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-792641358&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-274683951&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

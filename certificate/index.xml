@@ -5,12 +5,28 @@
     <link>https://huskyachao.github.io/certificate/</link>
       <atom:link href="https://huskyachao.github.io/certificate/index.xml" rel="self" type="application/rss+xml" />
     <description>Certificates</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huskyachao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Certificates</title>
       <link>https://huskyachao.github.io/certificate/</link>
     </image>
+    
+    <item>
+      <title>Outstanding Graduate Student of the Year</title>
+      <link>https://huskyachao.github.io/certificate/outstandinggraduate-2021-2022/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/outstandinggraduate-2021-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huawei Elite Scholarship</title>
+      <link>https://huskyachao.github.io/certificate/huaweischolarship_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/certificate/huaweischolarship_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Student Grant of IEEE INFOCOM 2022</title>
@@ -23,7 +39,7 @@
     <item>
       <title>Outstanding Graduate Student of the Year</title>
       <link>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://huskyachao.github.io/certificate/outstandinggraduate-2020-2021/</guid>
       <description></description>
     </item>
