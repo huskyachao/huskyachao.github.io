@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>(ToSN&#39;23) Wavoice: A mmWave-assisted Noise-resistant Speech Recognition System</title>
-      <link>https://huskyachao.github.io/publication/wavoice-tosn23/</link>
-      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/wavoice-tosn23/</guid>
+      <title>(IEEE S&amp;P&#39;23) MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection</title>
+      <link>https://huskyachao.github.io/publication/magbackdoor-oakland23/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/publication/magbackdoor-oakland23/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -60,10 +60,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>(IEEE S&amp;P&#39;23) MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection</title>
-      <link>https://huskyachao.github.io/publication/magbackdoor-oakland23/</link>
-      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/magbackdoor-oakland23/</guid>
+      <title>(ToSN&#39;23) Wavoice: A mmWave-assisted Noise-resistant Speech Recognition System</title>
+      <link>https://huskyachao.github.io/publication/wavoice-tosn23/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/publication/wavoice-tosn23/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -652,7 +652,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-917264835&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-367159248&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -662,7 +662,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-917264835&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-367159248&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
