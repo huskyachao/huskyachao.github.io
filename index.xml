@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>(UIST&#39;23) WavoID: Robust and Secure Multi-modal User Identification via mmWave-voice Mechanism</title>
-      <link>https://huskyachao.github.io/publication/wavid-uist23/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/wavid-uist23/</guid>
+      <title>(TDSC&#39;23) High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing</title>
+      <link>https://huskyachao.github.io/publication/mmphone-tdsc23/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://huskyachao.github.io/publication/mmphone-tdsc23/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -60,10 +60,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>(TDSC&#39;23) High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing</title>
-      <link>https://huskyachao.github.io/publication/mmphone-tdsc23/</link>
+      <title>(UIST&#39;23) WavoID: Robust and Secure Multi-modal User Identification via mmWave-voice Mechanism</title>
+      <link>https://huskyachao.github.io/publication/wavid-uist23/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://huskyachao.github.io/publication/mmphone-tdsc23/</guid>
+      <guid>https://huskyachao.github.io/publication/wavid-uist23/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -733,7 +733,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-459286371&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-576319284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -743,7 +743,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-459286371&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-576319284&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
